@@ -92,10 +92,10 @@ Le code source est privé, mais voici comment le jeu est construit.
 
 ## Une idée, un bug, le code ?
 
-Le dépôt du jeu est privé. Tu es développeur et le projet t'intéresse, tu as une idée de question ou de mode de jeu, ou tu as repéré un bug ? Ouvre une [issue](../../issues) sur ce dépôt.
+Le dépôt du jeu est privé. Tu es développeur et le projet t'intéresse, tu as une idée de question ou de mode de jeu, ou tu as repéré un bug ? Écris à **[contact@quilarp.fr](mailto:contact@quilarp.fr)** ou ouvre une [issue](../../issues) sur ce dépôt.
 
 ## Crédits
 
 Imaginé et réalisé par **[War3l](https://github.com/War3l)** (idée et direction artistique), avec l'aide d'une intelligence artificielle pour le développement.
 
-LARP est un **projet de fans, gratuit et non commercial**. Les extraits musicaux, les images et les noms d'œuvres cités dans les questions appartiennent à leurs ayants droit respectifs.
+LARP est un **projet de fans, gratuit et non commercial**. Les extraits musicaux, les images et les noms d'œuvres cités dans les questions appartiennent à leurs ayants droit respectifs. Un ayant droit souhaite qu'un contenu soit retiré ? Écrivez à [contact@quilarp.fr](mailto:contact@quilarp.fr) : il sera retiré sans délai.
